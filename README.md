@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Benjamin, a Software Engineer with 5 years of experience
+I'm Benjamin, a Software Engineer with 6 years of experience
 
 
 Here's some link to discover some of my work:
@@ -11,15 +11,13 @@ Root-me: https://www.root-me.org/Benjamin-Canape
 
 
 ### 💬 Short-term goal
-Keep working with web technologies like Angular or React in the front-end and Java EE/Scala or Node.js on the back-end 
+Keep working with web technologies like Angular or React in the front-end and Java/Scala or Node.js on the back-end 
 
-### 💬 Mid-term goal
-Becoming a data scientist, working on machine learning or big data projects
 
 ### 🌱 Known technologies
-I currently work on a Angular, Java and Scala project in the company I'm working in and on a React Native Game on a side project.
+I currently work on a Angular, Java and Scala project in the company I'm working in.
 
-I've been working with React.js and Node.js on side projects.
+I've been working with React.js and Node.js on side projects or Flutter or React Native on mobile apps.
 
 Before that I've created 2 Android apps.
 
