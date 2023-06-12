@@ -1,32 +1,21 @@
 ### Hi there 👋
 
-I'm Benjamin, a Software Engineer with 7 years of experience
+Benjamin, 29 years old, Software Engineer with 7 years of experience.
 
+### 👨🏻‍💻 Technologies and Projects
+Currently at Worldline, I specialize in the development of a tele-counselor management application using Angular with RxJS, and I also occasionally contribute my skills in Spring. With the experience I have gained, I have evolved into the role of a front-end reference, where I assist other developers in their front-end tasks and have had the opportunity to mentor two interns. Working within an international team has also allowed me to enhance my English proficiency. Additionally, I devote my personal time to an exciting project where I utilize Flutter and Spring to create a clone of the Runtastic mobile application. Throughout my journey, in my personal time, I have developed two Android applications and worked on a project utilizing React.js and Node.js. Although I possess a strong background in PHP and Symfony, I made the decision to focus on more innovative technologies.
 
-Here's some link to discover some of my work:
+### ⚡️ Strengths
+My strengths lie in my ability to learn quickly, my altruism, and my adaptability. I am always in pursuit of new knowledge and readily adapt to new work environments.
 
-Google Play Store: https://play.google.com/store/apps/developer?id=Benjamin+Canape
+### ✍🏻 Useful Links
+GitHub: https://github.com/BenjaminCanape
+My articles: https://medium.com/@benjamin.canape
+My Android Applications: https://play.google.com/store/apps/developer?id=Benjamin+Canape
+Cybersecurity Challenges: https://www.root-me.org/Benjamin-Canape
 
-Root-me: https://www.root-me.org/Benjamin-Canape
-
-
-### 💬 Short-term goal
-Keep working with web technologies like Angular or React in the front-end and Java/Scala or Node.js on the back-end 
-
-
-### 🌱 Known technologies
-I currently work on a Angular, Java and Scala project in the company I'm working in.
-
-I've been working with React.js and Node.js on side projects or Flutter or React Native on mobile apps.
-
-Before that I've created 2 Android apps.
-
-I've also worked with PHP, especially Symfony, but I want to move on now to learn new skills.
-
-### ⚡ Some things about me
-I like some challenges, learning new things and working on ambitious projects.
-
-I'm someone who like to help others, I learn quickly and I am at ease to adapt to new situations like new teams. 
+### 🏃🏻 Hobbies 🌍🎬
+Beyond development, I regularly engage in sports, always ready to do a jogging session and tackle thrilling challenges in fun races like the 14-18 and the Bulky Games. My curiosity also extends to societal and ecological issues, allowing me to stay informed about the challenges that shape our world, with a particular interest in platforms like ThinkerView. Lastly, if you are seeking recommendations for your TV series evenings, I am here to guide you towards choices that will captivate you.
 
 ### 📫 Contact me here 
 benjamin.canape@gmail.com
