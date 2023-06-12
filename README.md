@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Benjamin, a Software Engineer with 6 years of experience
+I'm Benjamin, a Software Engineer with 7 years of experience
 
 
 Here's some link to discover some of my work:
