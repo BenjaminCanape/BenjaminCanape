@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Benjamin, 29 years old, Software Engineer with 7 years of experience.
+Benjamin, Software Engineer
 
 
 ### 👨🏻‍💻 Technologies and Projects
