@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&theme=radical&color=gradeient&height=300&section=header&text=Hello%20Friend&fontSize=90)
 
-<a href="https://www.linkedin.com/in/benjamin-canape/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://medium.com/@benjamin.canape">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/benjamin-canape/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://medium.com/@benjamin.canape" target="_blank">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 
 I'm Benjamin, a French developer
 
@@ -14,7 +14,7 @@ The project I'm the most proud of is the one I currently work on, a mobile app i
 I wanted to discover Flutter and I had the idea to join my passion for development and my passion for running and it created the RunFlutterRun project.
 Now, it's a fully functionnal app that I keep improving by learning new skills on Flutter, Spring Boot and PostgreSQL.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BenjaminCanape&repo=RunFlutterRun&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BenjaminCanape&repo=RunFlutterRun&theme=radical)](https://github.com/BenjaminCanape/RunFlutterRun)
 
 
 
