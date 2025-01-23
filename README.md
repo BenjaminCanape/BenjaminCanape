@@ -42,7 +42,7 @@ Now, it's a fully functionnal app that I keep improving by learning new skills o
 
 ### ✍🏻 Useful Links
 
-My Android Applications: https://play.google.com/store/apps/developer?id=Benjamin+Canape
+Medium: https://medium.com/@benjamin.canape 
 
 Cybersecurity Challenges: https://www.root-me.org/Benjamin-Canape
 
@@ -52,10 +52,6 @@ Cybersecurity Challenges: https://www.root-me.org/Benjamin-Canape
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BenjaminCanape&show_icons=true&theme=radical)
-
-<br/>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BenjaminCanape&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 <br/>
